@@ -1,21 +1,10 @@
-### Hi there 👋
 
 <h1  align="center">
 <a  href="https://git.io/typing-svg">
-<img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=Hello+There+!+👋;Welcome+to+my+profile">
+<img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=👋,+Morayo+here.+;Have+a+look+around.">
 
-</a>
-<br>
-  I'm Bharadwaj Chukkala <br>
- 
-<img width="15%" alt="TB3" src="https://github.com/bharadwaj-chukkala/bharadwaj-chukkala/blob/main/profile-assets/funny_robot.gif">
-  
 </h1>
-<h3 align="center"> A Curious Robotics Software Engineer </h3>
-
-<p align="center">
-<i>I keep drowning in the ocean of knowledge just to find new things in its depth</i> 
-</p>
+<h3 align="center">Computer Scientist with Research Interests in Autonomous Entities. </h3>
 
 <!--
 **moraskool/moraskool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
