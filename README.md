@@ -1,7 +1,7 @@
 
 <h1  align="center">
 <a  href="https://git.io/typing-svg">
-<img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=👋,+Morayo+here.+;Have+a+look+around.">
+<img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=👋🏾,+Morayo+here.+;Have+a+look+around.">
 
 </h1>
 <h3 align="center">Computer Scientist with Research Interests in Autonomous Entities. </h3>
