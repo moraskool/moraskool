@@ -6,10 +6,12 @@
 </h1>
 <h3 align="center">Computer Scientist with Research Interests in Autonomous Entities. </h3>
 
+<!--
+
+copy this line once stat is significant
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moraskool&theme=apprentice)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moraskool&theme=apprentice)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moraskool&theme=apprentice)|
 |-----|------|------|
 
-<!--
 **moraskool/moraskool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
