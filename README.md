@@ -4,9 +4,9 @@
 <img  src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&lines=👋🏾,+Morayo+here.+;Have+a+look+around.">
 
 </h1>
-<h3 align="center">Computer Scientist with Research Interests in Autonomous Entities. </h3>
+<h4 align="left">Computer Scientist with Research Interests in Autonomous Entities. </h4>
 
-<h4 align="center">My primary research interest is to understand and develop better ways of creating autonomous systems that excel in highly dynamic scenarios, unpredictable, unstable environments and interactions. </h4>
+<p align="left">My primary research interest is to understand and develop better ways of creating autonomous systems that excel in highly dynamic scenarios, unpredictable, unstable environments and interactions. </p>
 
 <!--
 
