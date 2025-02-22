@@ -6,6 +6,8 @@
 </h1>
 <h3 align="center">Computer Scientist with Research Interests in Autonomous Entities. </h3>
 
+<h4 My primary research interest is to understand and develop better ways of creating autonomous systems that excel in highly dynamic scenarios, unpredictable, unstable environments and interactions. </h4>
+
 <!--
 
 copy this line once stat is significant
